@@ -47,7 +47,7 @@ This app allows adding **categories, albums, and photos directly inside the app*
 
 ## 🧠 Technical Details
 
-- **Platform:** iPadOS
+- **Platform:** iOS only (currently)
 - **Language:** Swift
 - **UI Framework:** SwiftUI
 - **Architecture:** MVVM
